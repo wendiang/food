@@ -5,6 +5,9 @@
 	padding:0;
 
 }
+body{
+	margin:0;
+}
 li{
 	list-style:none;
 }
